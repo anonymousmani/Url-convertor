@@ -18,17 +18,17 @@ Run these commands to run x_ploits
 ```
 pkg install git
 pkg install python2
-git clone https://github.com/anonymousmani/x_ploits.git
-cd x_ploits
+git clone https://github.com/anonymousmani/Url-convertor.git
+cd Url-convertor
 pip2 install -r requirements.txt
-python2 xploits.py
+python2 qr.py
 ```
 ### > For Linux:
 ```
-git clone https://github.com/anonymousmani/x_ploits.git
-cd x_ploits
+git clone https://github.com/anonymousmani/Url-convertor.git
+cd Url-convertor
 pip install -r requirements.txt
-python2 xploits.py
+python2 qr.py
 ```
 
 # CONTACT ME:
