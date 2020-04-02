@@ -1,6 +1,6 @@
 # Url-convertor
 # this is a small tool for convert URL into QRCODE</br>
-<h1 align="center">x_ploits</br>
+<h1 align="center">Url-convertor</br>
 </h1>
 <p align="center">An open-source Anonymous E-Mail Sender And E-Mail Bombing tool.</p><br>
 
