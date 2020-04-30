@@ -4,7 +4,7 @@
 </h1>
 
 
-###############  Coded by      : anonymousmani ##############<br>
+###############  Coded by      : Brijesh Kumar ##############<br>
 ##############  Instagram id   : www.instagram.com/X_ploits ##############<br>
 ##############  Github         : www.github.com/anonymousmani ##############<br>
 
