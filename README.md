@@ -26,7 +26,7 @@ python2 qr.py
 ```
 git clone https://github.com/anonymousmani/Url-convertor.git
 cd Url-convertor
-pip install -r requirements.txt
+pip2 install -r requirements.txt
 python2 qr.py
 ```
 
