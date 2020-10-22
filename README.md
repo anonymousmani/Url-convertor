@@ -1,5 +1,5 @@
 # Url-convertor
-# this is a small tool for convert URL into QRCODE</br>
+# A small tool for convert URL into QRCODE</br>
 <h1 align="center">Url-convertor</br>
 </h1>
 
