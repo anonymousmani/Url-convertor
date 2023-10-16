@@ -1,13 +1,18 @@
-# Url-convertor
-# A small tool for convert URL into QRCODE</br>
-<h1 align="center">Url-convertor</br>
+### String to QR Code Converter ###
+The String to QR Code Converter is a simple Python-based command-line application designed to effortlessly transform any string of text into a QR code image. Whether you're looking to quickly encode a URL, share contact information, or generate QR codes for any other purpose, this tool simplifies the process with ease.
+
+Features
+🔵 Effortless Conversion: Instantly convert any text string into a QR code image.
+🔵 QR Code Customization: Adjust the size, color, and error correction level to tailor the QR code to your preferences.
+🔵 Command-Line Interface: A straightforward command-line interface that allows for quick and efficient interaction.
+ 🔵Portable: The application can be used on any platform that supports Python
+<h1 align="center"> Url-convertor </br>
 </h1>
 
 
 ###############  Coded by      : Brijesh Kumar ##############<br>
 ##############  Instagram id   : www.instagram.com/X_ploits ##############<br>
 ##############  Github         : www.github.com/anonymousmani ##############<br>
-
 
 ## Usage:
 
