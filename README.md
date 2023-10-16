@@ -40,6 +40,8 @@ python2 qr.py
 Feel Free To Open An Issue...
 
 ```
-                 Instagram id: @x_ploits
-      ]
+
+##############  Instagram id   : www.instagram.com/X_ploits ##############<br>
+
+
 ```
