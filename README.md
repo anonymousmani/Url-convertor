@@ -3,8 +3,11 @@ The String to QR Code Converter is a simple Python-based command-line applicatio
 
 Features
 🔵 Effortless Conversion: Instantly convert any text string into a QR code image.
+
 🔵 QR Code Customization: Adjust the size, color, and error correction level to tailor the QR code to your preferences.
+
 🔵 Command-Line Interface: A straightforward command-line interface that allows for quick and efficient interaction.
+
  🔵Portable: The application can be used on any platform that supports Python
 <h1 align="center"> Url-convertor </br>
 </h1>
